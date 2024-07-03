@@ -54,8 +54,4 @@
 Here are some ideas to get you started:
 - :telescope: I'
 -->
-## My projects
-👉 Please click on the project names to see the live demo of the projects 👈
-  Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
-:-------------------------|-------------------------|-------------------------|-------------------------
 
