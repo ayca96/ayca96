@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 | Project Name | Description                                                           | GitHub Link                                         | Live Preview                                        | Demo GIF                                              |
 |--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
-| Project 1    | A React-based app displaying bakery items with a responsive Bootstrap design. | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              | ![Project 1](link-to-your-gif1.gif)                    |
+| Project 1    | A React-based app displaying bakery items with a responsive Bootstrap design. | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              | ![Project 1](./src/image/chrome-capture-2024-7-13.gif)                   |
 | Project 2    | A weather forecasting application providing daily weather updates.    | [GitHub](https://github.com/username/project-2)      | [Netlify](https://project-2.netlify.app)             | ![Project 2](link-to-your-gif2.gif)                    |
 | Project 3    | An e-commerce website prototype.                                       | [GitHub](https://github.com/username/project-3)     | [Netlify](https://project-3.netlify.app)             | ![Project 3](link-to-your-gif3.gif)                    |
 
