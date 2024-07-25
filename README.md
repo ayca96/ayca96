@@ -55,3 +55,23 @@ Here are some ideas to get you started:
 - :telescope: I'
 -->
 
+## My Projects 🚀
+
+| Project Name | Description                                                           | GitHub Link                                         | Live Preview                                        | Demo GIF                                              |
+|--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
+| Project 1    | An application that helps users track their daily habits.              | [GitHub](https://github.com/username/project-1)     | [Netlify](https://project-1.netlify.app)             | ![Project 1](link-to-your-gif1.gif)                    |
+| Project 2    | A weather forecasting application providing daily weather updates.    | [GitHub](https://github.com/username/project-2)     | [Netlify](https://project-2.netlify.app)             | ![Project 2](link-to-your-gif2.gif)                    |
+| Project 3    | An e-commerce website prototype.                                       | [GitHub](https://github.com/username/project-3)     | [Netlify](https://project-3.netlify.app)             | ![Project 3](link-to-your-gif3.gif)                    |
+
+---
+
+## About Me 📝
+
+I'm Ayca, a passionate web developer. For more information, check out my https://www.linkedin.com/in/ay%C3%A7a-k%C3%BCbra-soruklu/ profile!
+
+---
+
+## Contact 📫
+
+Feel free to reach out: [email@example.com](mailto:email@example.com)
+
