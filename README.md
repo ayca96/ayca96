@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 |--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
 |Patisserei Website | A React-based app displaying bakery items with a responsive Bootstrap design. | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              |                                                        |
 |To Do App     |Elegant, minimal, and responsive React To-Do app.   | (https://ayca96.github.io/React-To-Do-App/)     | (https://reacttodoappp.netlify.app)          |                 |
-| Project 3    | An e-commerce website prototype.                                       | [GitHub](https://github.com/username/project-3)     | [Netlify](https://project-3.netlify.app)             | ![Project 3](link-to-your-gif3.gif)                    |
+|UEFA Cards   |                                       | [GitHub](https://github.com/username/project-3)     | (https://project-3.netlify.app)](https://uefa2024app.netlify.app)            |                          |
 
 ---
 
