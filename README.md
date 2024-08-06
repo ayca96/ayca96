@@ -57,11 +57,11 @@ Here are some ideas to get you started:
 
 ## My Projects 🚀
 
-| Project Name | Description                                                           | GitHub Link                                         | Live Preview                                        | Demo GIF                                              |
+| Project Name | Libraries and Technologies I use        | GitHub Link                                         | Live Preview                                        | Demo GIF                                              |
 |--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
-|Patisserei Website | A React-based app displaying bakery items with a responsive Bootstrap design. | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              |                                                        |
-|To Do App     |Elegant, minimal, and responsive React To-Do app.   | (https://ayca96.github.io/React-To-Do-App/)     | (https://reacttodoappp.netlify.app)          |                 |
-|UEFA Cards   |                                       | [GitHub](https://github.com/username/project-3)     | (https://project-3.netlify.app)](https://uefa2024app.netlify.app)            |                          |
+|Patisserei Website | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              |                                                        |
+|To Do App     |HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive   | (https://ayca96.github.io/React-To-Do-App/)     | (https://reacttodoappp.netlify.app)          |                 |
+|UEFA Cards   |  HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive                                     | [GitHub](https://github.com/username/project-3)     | (https://project-3.netlify.app)](https://uefa2024app.netlify.app)            |                          |
 
 ---
 
