@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 |--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
 |Patisserei Website | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              |                                                        |
 |To Do App     |HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive   | (https://ayca96.github.io/React-To-Do-App/)     | (https://reacttodoappp.netlify.app)          |                 |
-|UEFA Cards   |  HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive                                     | [GitHub](https://github.com/username/project-3)     | (https://project-3.netlify.app)](https://uefa2024app.netlify.app)            |                          |
+|UEFA Cards   |  HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive  |  (https://ayca96.github.io/UEFA-2024/)     | (https://uefa2024app.netlify.app)            |                          |
 
 ---
 
