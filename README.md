@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 | Project Name | Description                                                           | GitHub Link                                         | Live Preview                                        | Demo GIF                                              |
 |--------------|-----------------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
 |Patisserei Website | A React-based app displaying bakery items with a responsive Bootstrap design. | https://ayca96.github.io/Patisserie-Project/    | https://aycaspatisserie.netlify.app              |                                                        |
-|To Do App     |Elegant, minimal, and responsive React To-Do app.   | [GitHub](https://github.com/username/project-2)      | [Netlify](https://project-2.netlify.app)             | (https://reacttodoappp.netlify.app)                 |
+|To Do App     |Elegant, minimal, and responsive React To-Do app.   | [GitHub](https://github.com/username/project-2)      | (https://reacttodoappp.netlify.app)          |                 |
 | Project 3    | An e-commerce website prototype.                                       | [GitHub](https://github.com/username/project-3)     | [Netlify](https://project-3.netlify.app)             | ![Project 3](link-to-your-gif3.gif)                    |
 
 ---
