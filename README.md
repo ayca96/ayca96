@@ -57,12 +57,13 @@ Here are some ideas to get you started:
 
 ## My Projects 🚀
 
-| Project Name      | Libraries and Technologies I use                                 |   GitHub Link                                        |    Live Preview                                     |  Demo GIF                
-|-------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------- 
-|Patisserei Website | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive          | https://ayca96.github.io/Patisserie-Project/         | https://aycaspatisserie.netlify.app                 |                          
-|To Do App          | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive          | (https://ayca96.github.io/React-To-Do-App/)          | (https://reacttodoappp.netlify.app)                 |                          
-|UEFA Cards         | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive          | (https://ayca96.github.io/UEFA-2024/)                | (https://uefa2024app.netlify.app)                   |                          
-| Hospital Project  | HTML5, CSS3, JavaScript, ReactJS, Responsive                     | (https://ayca96.github.io/Hospital-App/)             | (https://myhospitalapp.netlify.app)                 |                          
+| Project Name        | Libraries and Technologies I Use                      | GitHub Link                                                | Live Preview                                             | Demo GIF                         |
+|---------------------|-------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|----------------------------------|
+| Patisserei Website  | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/Patisserie-Project/)      | [Live Preview](https://aycaspatisserie.netlify.app)       | ![Patisserei Website](path/to/demo.gif) |
+| To Do App           | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/React-To-Do-App/)         | [Live Preview](https://reacttodoappp.netlify.app)         | ![To Do App](path/to/demo.gif)         |
+| UEFA Cards          | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/UEFA-2024/)               | [Live Preview](https://uefa2024app.netlify.app)           | ![UEFA Cards](path/to/demo.gif)        |
+| Hospital Project    | HTML5, CSS3, JavaScript, ReactJS, Responsive           | [GitHub](https://ayca96.github.io/Hospital-App/)            | [Live Preview](https://myhospitalapp.netlify.app)         | ![Hospital Project](path/to/demo.gif)  |
+                 
 ---
 
 ## About Me 📝
