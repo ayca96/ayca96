@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 
 | Project Name        | Libraries and Technologies I Use                      | GitHub Link                                                | Live Preview                                             | Demo GIF                         |
 |---------------------|-------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|----------------------------------|
-| Patisserei Website  | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/Patisserie-Project/)      | [Live Preview](https://aycaspatisserie.netlify.app)       | ![Patisserei Website](https://path/to/demo.gif) |
-| To Do App           | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/React-To-Do-App/)         | [Live Preview](https://reacttodoappp.netlify.app)         | ![To Do App](https://path/to/demo.gif)         |
-| UEFA Cards          | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/UEFA-2024/)               | [Live Preview](https://uefa2024app.netlify.app)           | ![UEFA Cards](https://path/to/demo.gif)        |
+| Patisserei Website  | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/Patisserie-Project/)      | [Live Preview](https://aycaspatisserie.netlify.app)       | ![[Patisserei Website](https://path/to/demo.gif](https://github.com/Ayca96/Patisserie-Project/blob/main/chrome-capture-2024-7-25.gif)) |
+| To Do App           | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/React-To-Do-App/)         | [Live Preview](https://reacttodoappp.netlify.app)         | ![To Do App](https://github.com/Ayca96/React-To-Do-App/blob/main/src/img/chrome-capture-2024-8-6.gif)         |
+| UEFA Cards          | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/UEFA-2024/)               | [Live Preview](https://uefa2024app.netlify.app)           | ![UEFA Cards](https://github.com/Ayca96/UEFA-2024/blob/main/src/assets/chrome-capture-2024-8-6.gif)        |
 | Hospital Project    | HTML5, CSS3, JavaScript, ReactJS, Responsive           | [GitHub](https://ayca96.github.io/Hospital-App/)            | [Live Preview](https://myhospitalapp.netlify.app)         | ![Hospital Project](https://github.com/Ayca96/Hospital-App/blob/main/src/img/chrome-capture-2024-8-7.gif)  |
 
                  
