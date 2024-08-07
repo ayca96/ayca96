@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 | Patisserei Website  | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/Patisserie-Project/)      | [Live Preview](https://aycaspatisserie.netlify.app)       | ![Patisserei Website](https://path/to/demo.gif) |
 | To Do App           | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/React-To-Do-App/)         | [Live Preview](https://reacttodoappp.netlify.app)         | ![To Do App](https://path/to/demo.gif)         |
 | UEFA Cards          | HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Responsive| [GitHub](https://ayca96.github.io/UEFA-2024/)               | [Live Preview](https://uefa2024app.netlify.app)           | ![UEFA Cards](https://path/to/demo.gif)        |
-| Hospital Project    | HTML5, CSS3, JavaScript, ReactJS, Responsive           | [GitHub](https://ayca96.github.io/Hospital-App/)            | [Live Preview](https://myhospitalapp.netlify.app)         | ![Hospital Project](https://path/to/demo.gif)  |
+| Hospital Project    | HTML5, CSS3, JavaScript, ReactJS, Responsive           | [GitHub](https://ayca96.github.io/Hospital-App/)            | [Live Preview](https://myhospitalapp.netlify.app)         | ![Hospital Project](https://github.com/Ayca96/Hospital-App/blob/main/src/img/chrome-capture-2024-8-7.gif)  |
 
                  
 ---
