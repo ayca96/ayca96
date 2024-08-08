@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 | Memory Card Game    | HTML5, CSS3, JavaScript,Responsive                     | [GitHub]( https://ayca96.github.io/Memory-Card-Game/)       | [Live Preview]()                                          | ![Memory Card Game](https://github.com/Ayca96/Memory-Card-Game/blob/main/Memory%20Card%20Game%20Images/Memory%20Card%20Game%20Images/chrome-capture-2024-6-6.gif)
 | Parallax-Project    | HTML5, CSS3, Bootstrap                                 | [GitHub](https://ayca96.github.io/Wien-Parallax/)           | [Live Preview]()                                          | ![Parallax Project](https://github.com/Ayca96/Wien-Parallax/blob/main/images/wien-parallax.gif)
 | Navbar-Project      | HTML5, CSS3                                            | [GitHub](https://ayca96.github.io/Project-Responsive-Navbar/) |[Live Preview]()                                         | ![Navbar Project](https://github.com/Ayca96/Project-Responsive-Navbar/blob/main/images/chrome-capture-2024-4-22%20(1).gif)
-| Cafe-Project        | HTML, CSS3, Bootstrap                                  | [GitHub](https://ayca96.github.io/Boostrap-Project/)        | [Live Preview]()                                          | ![Bootstrap-Project] (https://github.com/Ayca96/Boostrap-Project/blob/main/img/chrome-capture-2024-8-8.gif)
+| Cafe-Project        | HTML, CSS3, Bootstrap                                  | [GitHub](https://ayca96.github.io/Boostrap-Project/)        | [Live Preview]()                                          | ![Bootstrap-Project] (https://github.com/Ayca96/Boostrap-Project/blob/main/img/chrome-capture-2024-8-8.gif) 
 
       
 ---
