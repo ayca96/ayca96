@@ -1,4 +1,5 @@
-<img align="center" src="https://i.pinimg.com/originals/74/22/a5/7422a585889c9760fbd4317b64a40e9b.gif" alt="Kung Fu Panda" width=1000 height=150/>
+
+<img align="center" src="https://i.pinimg.com/originals/92/17/c6/9217c62f0fc1947de4f0358ac2e0a02a.gif" alt="Kung Fu Panda" width=1000 height=150/>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Ayca;Welcome+to+my+profile!;Full+Stack+Developer!" alt="Typing SVG" /></a>
