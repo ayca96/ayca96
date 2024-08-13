@@ -16,6 +16,15 @@
 
 <div align=center>
 
+#### Connect with me:
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucangun/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ucangun76@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=ucangun&style=flat-square)
+
+</div>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayca96&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayca96&hide=TeX&layout=compact) </br>
