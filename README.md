@@ -25,7 +25,7 @@
 </div>
 
 ## Skills
-<img align="center" src="https://media.tenor.com/WXGCrLhrYqUAAAAC/dragonwarrior-kung-fu-panda.gif" alt="Kung Fu Panda" width=1100 height=250/>
+<img align="center" src="https://media.tenor.com/WXGCrLhrYqUAAAAC/dragonwarrior-kung-fu-panda.gif" alt="Kung Fu Panda" width=1100 height=250 border="0"/>
 
 <div align="center">
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
