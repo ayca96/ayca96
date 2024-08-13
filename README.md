@@ -25,7 +25,9 @@
     <img src="https://streak-stats.demolab.com?user=ucangun&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-## [![Tech Stack](https://play-lh.googleusercontent.com/proxy/wZdOn2FRfjjoYvYwfU6h9fGha2ZaBVB4c0F82XWyEneaXXUcQMspVRFsh-p1zcFMdPb6Rmt8_sGok6QP5zuhISrBiRkwVIHNFAYoalKcSm85jvXx_y7Y=s1920-w1920-h1080)
+## [![Tech Stack](https://play-lh.googleusercontent.com/proxy/wZdOn2FRfjjoYvYwfU6h9fGha2ZaBVB4c0F82XWyEneaXXUcQMspVRFsh-p1zcFMdPb6Rmt8_sGok6QP5zuhISrBiRkwVIHNFAYoalKcSm85jvXx_y7Y=s1920-w1920-h1080)](https://fontmeme.com/kung-fu-panda-font/)
+<img src="https://play-lh.googleusercontent.com/proxy/wZdOn2FRfjjoYvYwfU6h9fGha2ZaBVB4c0F82XWyEneaXXUcQMspVRFsh-p1zcFMdPb6Rmt8_sGok6QP5zuhISrBiRkwVIHNFAYoalKcSm85jvXx_y7Y=s1920-w1920-h1080" width="200" alt="Tech Stack">
+
 <div align="center">
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
