@@ -55,6 +55,7 @@
 ## Socials
 <div align="center">
 <p> "Power is all about how a person feels. With a little courage, you can achieve anything." (Shifu)</p>
+    <p> „Kraft hängt davon ab, wie man sich fühlt. Mit ein wenig Mut kannst du alles erreichen.“</p>
 </div>
 
 <div align="center">
