@@ -1,44 +1,29 @@
-## 
-<div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Ayca;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+<img align="center" src="https://i.pinimg.com/originals/11/2f/8d/112f8da2dbf2e4e622a1cc0c726ac2de.gif" alt="Kung Fu Panda" width=1000 height=150/>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Ayca;Welcome+to+my+profile!;Full+Stack+Developer!" alt="Typing SVG" /></a>
 </div>
 
 <br>
+
+<a href="https://fontmeme.com/kung-fu-panda-font/"><img src="https://fontmeme.com/permalink/240805/f4c3b8dc0370db4397ef98d1c12fb5c2.png" alt="kung-fu-panda-font" border="0"></a>
+
+<br>
+
 <font color="pink"> :snowboarder: I'm Full Stack Developer</font>
-</br>
 <br>
 <font color="pink"> :fire: My developer career started in 2022, and it goes on...</font>
-</br>
 <br>
 <font color="pink"> :rocket: Currently, I am focusing on HTML, CSS, React, Javascript, SASS, Bootstrap...</font>
-</br>
-
-
-<div align=center>
-
-#### Connect with me:
-
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ay%C3%A7a-k%C3%BCbra-soruklu/)
-
-[![E-Mail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:aycakubra1@gmail.com)
-
-![Netlify](https://app.netlify.com/teams/ayca96/sites)
-
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucangun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ucangun&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucangun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+    <img src="https://streak-stats.demolab.com?user=ucangun&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
-</br>
-
-
-## Skills
-
+## [![Tech Stack](https://fontmeme.com/permalink/240805/41f773a842f252b5e00f4af42d9a79a2.png)](https://fontmeme.com/kung-fu-panda-font/)
 <div align="center">
-<h2 align="center">:rocket:Technical Skills</h2>
-
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
 <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
@@ -47,7 +32,6 @@
 <img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
 <img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
-<img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
 <img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
@@ -62,17 +46,17 @@
 <img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
 <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
-  
 </div>
-      
+
+## [![Socials](https://fontmeme.com/permalink/240805/2e3cbd646e1a5c6811c1a5265793a3dc.png)](https://fontmeme.com/kung-fu-panda-font/)
+<div align="center">
+    <a href="https://www.linkedin.com/in/ayca/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-2c2c2c?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
+    <a href="mailto:aycakubra1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c2c2c?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
+</div>
+
 <p align="right">
   <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
- </p>
-<!--
-**Ayca96/Ayca96** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescope: I'
--->
+</p>
 
 ## My Projects 🚀
 
@@ -90,16 +74,9 @@ Here are some ideas to get you started:
 | Navbar-Project      | HTML5, CSS3                                            | [GitHub](https://ayca96.github.io/Project-Responsive-Navbar/) |[Live Preview]()                                         | ![Navbar Project](https://github.com/Ayca96/Project-Responsive-Navbar/blob/main/images/chrome-capture-2024-4-22%20(1).gif)
 | Cafe-Project        | HTML, CSS3, Bootstrap                                  | [GitHub](https://ayca96.github.io/Boostrap-Project/)        | [Live Preview]()                                          | ![Bootstrap-Project](https://github.com/Ayca96/Boostrap-Project/blob/main/img/chrome-capture-2024-8-8.gif)
 
-      
 ---
-
 ## About Me 📝
-
-I'm Ayca, a passionate web developer. For more information, check out my https://www.linkedin.com/in/ay%C3%A7a-k%C3%BCbra-soruklu/ profile!
-
----
+I'm Ayca, a passionate web developer. For more information, check out my [LinkedIn](https://www.linkedin.com/in/ay%C3%A7a-k%C3%BCbra-soruklu/) profile!
 
 ## Contact 📫
-
 Feel free to reach out: aycakubra1@gmail.com
-
