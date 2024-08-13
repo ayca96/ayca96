@@ -52,7 +52,7 @@
 <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 </div>
 
-## [![Socials](https://fontmeme.com/permalink/240805/2e3cbd646e1a5c6811c1a5265793a3dc.png)](https://fontmeme.com/kung-fu-panda-font/)
+## Socials
 <div align="center">
     <a href="https://www.linkedin.com/in/ayca/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-2c2c2c?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
     <a href="mailto:aycakubra1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c2c2c?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
