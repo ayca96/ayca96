@@ -1,17 +1,21 @@
-# Ayca Kübra
-## Fullstack Developer
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Ayca Kübra Soruklu, Front-End Developer :computer: 
-  </br>
-  <div>
-  <a href="https://ayca.netlify.app/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
-  </div> 
-<p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
- </p>
+## 
+<div align=center>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Ayca;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+</div>
+
+<br>
+<font color="pink"> :snowboarder: I'm Full Stack Developer</font>
 </br>
+<br>
+<font color="pink"> :fire: My developer career started in 2022, and it goes on...</font>
+</br>
+<br>
+<font color="pink"> :rocket: Currently, I am focusing on HTML, CSS, React, Javascript, SASS, Bootstrap...</font>
+</br>
+
+
+<div align=center>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayca96&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayca96&hide=TeX&layout=compact) </br>
