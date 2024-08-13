@@ -34,7 +34,16 @@
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
   
 </p>
       
