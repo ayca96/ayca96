@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://fontmeme.com/kung-fu-panda-font/"><img src="https://i.pinimg.com/originals/3a/a2/87/3aa28716938d1b5b164b7f3be1f8e1d4.gif" alt="kung-fu-panda-font" border="0"></a>
+<a align="center" href="https://fontmeme.com/kung-fu-panda-font/"><img src="https://i.pinimg.com/originals/3a/a2/87/3aa28716938d1b5b164b7f3be1f8e1d4.gif" alt="kung-fu-panda-font" border="0"></a>
 
 <br>
 
