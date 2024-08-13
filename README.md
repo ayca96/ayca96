@@ -54,6 +54,10 @@
 
 ## Socials
 <div align="center">
+<p> "Power is all about how a person feels. With a little courage, you can achieve anything."</p>
+</div>
+
+<div align="center">
     <a href="https://www.linkedin.com/in/ayca/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-2c2c2c?style=flat&logo=linkedin&logoColor=1572B6" alt="Linkedin"></a>
     <a href="mailto:aycakubra1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c2c2c?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
 </div>
