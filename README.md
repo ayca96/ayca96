@@ -31,6 +31,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayca96&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayca96.Ayca96)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucangun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ucangun&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+</br>
+
+
 ## Skills
 
 <div align="center">
