@@ -54,7 +54,7 @@
 
 ## Socials
 <div align="center">
-<p> "Power is all about how a person feels. With a little courage, you can achieve anything."</p>
+<p> "Power is all about how a person feels. With a little courage, you can achieve anything." (Shifu)</p>
 </div>
 
 <div align="center">
